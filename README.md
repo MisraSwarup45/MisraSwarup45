@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Swarup 😎</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misraswarup45&label=Profile%20views&color=0e75b6&style=flat" alt="misraswarup45" /> </p>
 
 <img align="right" alt="Coding" width="300" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
 <p align="left"> <a href="https://twitter.com/misraswarup45" target="blank"><img src="https://img.shields.io/twitter/follow/misraswarup45?logo=twitter&style=for-the-badge" alt="misraswarup45" /></a> </p>
+
+- 🔗 My Portfolio https://misraswarup45.netlify.app/
 
 - 💬 Ask me about **Node.js, C++, React.js**
 
