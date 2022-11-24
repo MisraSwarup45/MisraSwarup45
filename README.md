@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Searching My Name in Google**
 
-- 🔗 Link Tree https://linktr.ee/MisraSwarup45
+- 🔗 Links To Connect https://swarup-linklist.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
