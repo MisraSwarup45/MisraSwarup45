@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Swarup 😎</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=misraswarup45&label=Profile%20views&color=0e75b6&style=flat" alt="misraswarup45" /> </p>
+<table align="center">
+  <tr>
+    <td> Profile Views </td>
+    <td><img src="https://profile-counter.glitch.me/misraswarup45/count.svg" alt="vistor count" height="20" /></td>
+  </tr>
+</table>
 
 <img align="right" alt="Coding" width="300" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
@@ -17,21 +22,17 @@
 
 - 🔗 Links To Connect https://swarup-linklist.netlify.app/
 
-## Connect With Me:
+### Connect With Me:
 
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/MisraSwarup45#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/MisraSwarup45#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![twitter](./img/twitter-light.svg)](https://twitter.com/MisraSwarup45#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/MisraSwarup45#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://instagram.com/MisraSwarup45#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://instagram.com/MisraSwarup45#gh-dark-mode-only)
+<p align="left">
+<a href="https://twitter.com/misraswarup45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="misraswarup45" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/misraswarup45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misraswarup45" height="30" width="40" /></a>
+<a href="https://fb.com/misraswarup45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="misraswarup45" height="30" width="40" /></a>
+<a href="https://instagram.com/misraswarup45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="misraswarup45" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/misraswarup45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="misraswarup45" height="30" width="40" /></a>
+</p>
 
-
-[linkedin]: https://www.linkedin.com/in/MisraSwarup45
-[twitter]: https://twitter.com/MisraSwarup45
-[instagram]: https://www.instagram.com/MisraSwarup45
+---
 
 
 <h3 align="left">Technologies & Tools:</h3>
@@ -39,4 +40,11 @@
 [![My Skills](https://skillicons.dev/icons?i=git,cpp,c,html,css,bootstrap,js,react,nodejs,express,mongodb,vscode,github)](https://skillicons.dev)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misraswarup45&" alt="misraswarup45" /></p>
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MisraSwarup45&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisraSwarup45&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
