@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swarup 😎</h1>
+
+
 <h3 align="center">A passionate Developer from India</h3>
 
 <table align="center">
@@ -10,7 +12,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
-<p align="left"> <a href="https://twitter.com/misraswarup45" target="blank"><img src="https://img.shields.io/twitter/follow/misraswarup45?logo=twitter&style=for-the-badge" alt="misraswarup45" /></a> </p>
+---
 
 - 🔗 My Portfolio https://misraswarup45.netlify.app/
 
@@ -21,6 +23,8 @@
 - ⚡ Fun fact **Searching My Name in Google**
 
 - 🔗 Links To Connect https://swarup-linklist.netlify.app/
+
+---
 
 ### Connect With Me:
 
