@@ -26,7 +26,7 @@
 
 ---
 
-### Connect With Me:
+### :handshake: Connect With Me:
 
 <p align="left">
 <a href="https://twitter.com/misraswarup45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="misraswarup45" height="30" width="40" /></a>
@@ -39,7 +39,7 @@
 ---
 
 
-<h3 align="left">Technologies & Tools:</h3>
+### :computer: Technologies & Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=git,cpp,c,html,css,bootstrap,js,react,nodejs,express,mongodb,vscode,github)](https://skillicons.dev)
 
