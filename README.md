@@ -28,7 +28,7 @@
 <a href="https://www.leetcode.com/misraswarup45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="misraswarup45" height="30" width="40" /></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=git,cpp,c,html,css,bootstrap,js,jquery,react,nodejs,express,ejs,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,cpp,c,html,css,bootstrap,js,jquery,react,nodejs,express,mongodb,mongoose,vscode,github)](https://skillicons.dev)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misraswarup45&" alt="misraswarup45" /></p>
