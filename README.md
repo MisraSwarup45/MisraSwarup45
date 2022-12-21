@@ -17,18 +17,26 @@
 
 - 🔗 Links To Connect https://swarup-linklist.netlify.app/
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/misraswarup45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="misraswarup45" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/misraswarup45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misraswarup45" height="30" width="40" /></a>
-<a href="https://fb.com/misraswarup45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="misraswarup45" height="30" width="40" /></a>
-<a href="https://instagram.com/misraswarup45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="misraswarup45" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/misraswarup45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="misraswarup45" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/misraswarup45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="misraswarup45" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/misraswarup45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="misraswarup45" height="30" width="40" /></a>
-</p>
+## Connect With Me:
 
-[![My Skills](https://skillicons.dev/icons?i=git,cpp,c,html,css,bootstrap,js,react,nodejs,express,mongodb,mongoose,vscode,github)](https://skillicons.dev)
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/MisraSwarup45#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/MisraSwarup45#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![twitter](./img/twitter-light.svg)](https://twitter.com/MisraSwarup45#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/MisraSwarup45#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![instagram](./img/instagram-light.svg)](https://instagram.com/MisraSwarup45#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/MisraSwarup45#gh-dark-mode-only)
+
+
+[linkedin]: https://www.linkedin.com/in/MisraSwarup45
+[twitter]: https://twitter.com/MisraSwarup45
+[instagram]: https://www.instagram.com/MisraSwarup45
+
+
+<h3 align="left">Technologies & Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=git,cpp,c,html,css,bootstrap,js,react,nodejs,express,mongodb,vscode,github)](https://skillicons.dev)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misraswarup45&" alt="misraswarup45" /></p>
