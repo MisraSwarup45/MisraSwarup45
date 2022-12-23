@@ -14,15 +14,15 @@
 
 ---
 
-- 🔗 My Portfolio https://misraswarup45.netlify.app/
+- 🔗 My Portfolio <a href="https://misraswarup45.netlify.app/">**MisraSwarup45**</a>
 
-- 💬 Ask me about **Node.js, C++, React.js**
+- 💬 Ask me about **C/C++, DSA, Node.js, React.js**
 
 - 📫 How to reach me **swarupkum45@gmail.com**
 
 - ⚡ Fun fact **Searching My Name in Google**
 
-- 🔗 Links To Connect https://swarup-linklist.netlify.app/
+- 🔗 Links To Connect <a href="https://swarup-linklist.netlify.app/">**Links-MisraSwarup45**</a>
 
 ---
 
