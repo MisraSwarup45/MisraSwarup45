@@ -41,7 +41,7 @@
 
 ### :computer: Technologies & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,cpp,c,html,css,bootstrap,js,react,nodejs,express,mongodb,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,react,nodejs,express,mongodb,vscode,git,github)](https://skillicons.dev)
 
 
 ---
